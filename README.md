@@ -18,6 +18,7 @@
 ✅ Issue = 你的開發日記
 ✅ Project Board = 進度看板
 ✅ Status = 目前做到哪一步
+
 三、第一次使用：請照以下 5 個步驟
 Step 1️⃣ 建立你的教學專案（Issue）
 
